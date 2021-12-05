@@ -1,0 +1,66 @@
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\Xarvis.exe.config
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\Xarvis.exe
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\Xarvis.pdb
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.csprojAssemblyReference.cache
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.login.resources
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.Properties.Resources.resources
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.GenerateResource.cache
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.CoreCompileInputs.cache
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.exe
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.pdb
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.Index.resources
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\Interop.WMPLib.dll
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Interop.WMPLib.dll
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.ResolveComReference.cache
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.Help.resources
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.Manual.resources
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\UMS-Rasel\source\repos\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.CopyComplete
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\Xarvis.exe.config
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\Xarvis.exe
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\Xarvis.pdb
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\AudioSwitcher.AudioApi.dll
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\Interop.WMPLib.dll
+D:\Rafi\Personal Project\Xarvis\Xarvis\bin\Debug\AxInterop.WMPLib.dll
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.AssemblyReference.cache
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Interop.WMPLib.dll
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\AxInterop.WMPLib.dll
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.ResolveComReference.cache
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.Help.resources
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.Index.resources
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.login.resources
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.Manual.resources
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.Properties.Resources.resources
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.Voice_System.resources
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.GenerateResource.cache
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.CoreCompileInputs.cache
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.CopyComplete
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.exe
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.pdb
+D:\Rafi\Personal Project\Xarvis\Xarvis\obj\Debug\Xarvis.Forms.Applist.resources
+F:\Xarvis\Xarvis\bin\Debug\Xarvis.exe.config
+F:\Xarvis\Xarvis\bin\Debug\Xarvis.exe
+F:\Xarvis\Xarvis\bin\Debug\Xarvis.pdb
+F:\Xarvis\Xarvis\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+F:\Xarvis\Xarvis\bin\Debug\AudioSwitcher.AudioApi.dll
+F:\Xarvis\Xarvis\bin\Debug\Interop.WMPLib.dll
+F:\Xarvis\Xarvis\bin\Debug\AxInterop.WMPLib.dll
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.AssemblyReference.cache
+F:\Xarvis\Xarvis\obj\Debug\Interop.WMPLib.dll
+F:\Xarvis\Xarvis\obj\Debug\AxInterop.WMPLib.dll
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.ResolveComReference.cache
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.Forms.Applist.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.Help.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.Index.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.login.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.Manual.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.Properties.Resources.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.Voice_System.resources
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.GenerateResource.cache
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.csproj.CoreCompileInputs.cache
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.exe
+F:\Xarvis\Xarvis\obj\Debug\Xarvis.pdb
